@@ -267,12 +267,8 @@ The ATM Simulator login window should appear.
 
 ### Login / Sign Up Interface
 
+<img width="1007" height="601" alt="Screenshot 2026-09-17 122839" src="https://github.com/user-attachments/assets/b143dda4-4fda-4aea-b41b-490ebcb62353" />
 
-
-```markdown
-![ATM Login Interface](<img width="1007" height="601" alt="Screenshot 2026-09-17 122839" src="https://github.com/user-attachments/assets/fd5c50a1-8491-4a7c-9d32-75a72eead1da" />
-)
-```
 
 ### Account Registration
 
@@ -284,9 +280,6 @@ The ATM Simulator login window should appear.
 
 <img width="377" height="202" alt="image" src="https://github.com/user-attachments/assets/6e534ce7-8081-4a1f-a4ac-63d9397e0b94" />
 
-```markdown
-![Account Registration](screenshots/signup.png)
-```
 
 ---
 
@@ -307,9 +300,6 @@ From here, the customer can perform:
 
 <img width="1177" height="1025" alt="image" src="https://github.com/user-attachments/assets/d7a5f4e5-faba-4e21-a504-12614b2db354" />
 
-```markdown
-![ATM Transaction Menu](screenshots/atm-menu.png)
-```
 
 ---
 
