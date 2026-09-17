@@ -267,11 +267,11 @@ The ATM Simulator login window should appear.
 
 ### Login / Sign Up Interface
 
-<img width="1007" height="601" alt="Screenshot 2026-09-17 122839" src="https://github.com/user-attachments/assets/fd5c50a1-8491-4a7c-9d32-75a72eead1da" />
 
 
 ```markdown
-![ATM Login Interface](screenshots/login.png)
+![ATM Login Interface](<img width="1007" height="601" alt="Screenshot 2026-09-17 122839" src="https://github.com/user-attachments/assets/fd5c50a1-8491-4a7c-9d32-75a72eead1da" />
+)
 ```
 
 ### Account Registration
